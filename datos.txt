@@ -1,0 +1,5 @@
+2023-01-15, Soleado
+2023-01-16, Lluvia
+2023-01-17, Nublado
+2023-01-18, Ventoso
+2023-01-19, Nevado
